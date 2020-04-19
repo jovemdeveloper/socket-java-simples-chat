@@ -1,0 +1,5 @@
+1 - Class Servidor - responsável por gerenciar novas conexões
+
+2 - Class ClienteServidor - representação do cliente no servidor
+
+3 - Class Cliente - vão se comunicar entre si
